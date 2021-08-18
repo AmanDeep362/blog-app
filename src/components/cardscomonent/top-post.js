@@ -1,4 +1,4 @@
-import Latestarticle from '../latestarticle';
+
 import cardimage from './../../images/sideimage2.jpg'
 function Toppost(props){
     console.log(props)

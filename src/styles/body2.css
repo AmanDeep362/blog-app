@@ -1,0 +1,68 @@
+.page2-body{
+    margin-left: 20%;
+    margin-top: 3%;
+    height: 0px;
+}
+.bollywood-heading{
+    font-family:'Montserrat', sans-serif ;
+    margin: 0px;
+    font-size: 32px;
+}
+.line-break{
+    width: 80px;
+    margin-left: 0%;
+    height: 2px;
+    background-color: #F08080;
+    margin-top: 0%;
+}
+.bollyword-article-card{
+    margin-left: -35%;
+    margin-top: 5%;
+}
+.body-container-2{
+    position: relative;
+    right:400px;
+    bottom: 650px;
+    height: 0px;
+}
+.page-2-advt{
+    position: relative;
+    left: 1062px;
+    bottom: 1350px;
+
+}
+@media only screen and (max-width: 480px) {
+    .page2-body{
+        margin-left: 25%;
+        margin-top: 3%;
+        height: 0px;
+    }
+    .bollywood-heading{
+        font-family:'Montserrat', sans-serif ;
+        margin: 0px;
+        font-size: 16px;
+    }
+    .line-break{
+        width: 60px;
+        margin-left: 0%;
+        height: 2px;
+        background-color: #F08080;
+        margin-top: 0%;
+    }
+    .bollyword-article-card{
+        margin-left: -35%;
+        margin-top: 10%;
+    }
+    .body-container-2{
+        position: relative;
+        right:400px;
+        bottom: 650px;
+        height: 0px;
+    }
+    .body-container-2{
+        position: relative;
+        bottom: -48px;
+        left: -89px;
+        margin-left: 5%;
+    }
+}

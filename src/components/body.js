@@ -6,6 +6,7 @@ import Advertisement from "./advertisement";
 import BlogArticleCard3 from "./cardscomonent/blogarticle3";
 
 import Sidecomponent from "./side-card-2";
+import Footercomponent from "./footer-component";
 let Body =()=>{
     return(
         <>
@@ -21,6 +22,9 @@ let Body =()=>{
         </div>
         <div >
             <Sidecomponent/>
+        </div>
+        <div className="view-more-footer">
+            <Footercomponent />
         </div>
         </div>
         </>
